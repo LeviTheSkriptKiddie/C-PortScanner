@@ -1,4 +1,4 @@
-# C#-PortScanner
+# C# PortScanner
 This is Just a very very basic and slow(for now) C# Port Scanner with a few Options and it also includes Common Open Ports and or you can also just manually scan a port.
 
 # To Do
