@@ -3,10 +3,10 @@ This is Just a very very basic and slow(for now) C# Port Scanner with a few Opti
 
 # To Do
 
--[ ] - Incresse Scanning time
+- [ ] - Incresse Scanning time
 
--[ ] - Scan More Ports EG. 1 - 5000
+- [ ] - Scan More Ports EG. 1 - 5000
 
--[ ] - Scan Multible IPs at a time
+- [ ] - Scan Multible IPs at a time
 
--[ ] - If a vulnerable Port Is found Try and attack it? 
+- [ ] - If a vulnerable Port Is found Try and attack it? 
